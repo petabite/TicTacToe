@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1533757053 source:c:\users\philip\desktop\code\tictactoe.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<cstdlib>
+	<ctime>
+
+1533757243 source:c:\users\philip\desktop\code\tictactoe\tictactoe.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<cstdlib>
+	<ctime>
+
